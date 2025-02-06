@@ -24,7 +24,8 @@ The dataset used in this project is a sample **bike sales dataset** from [Kaggle
 5. **Use Slicers** on the right side to filter data by **Region, Segment, and Year**.  
 6. **Explore the visualizations** to analyze sales trends and performance.  
 
-## Screenshots (Optional)  
+## Screenshots 
+[Dashboard] (https://github.com/SwishonaKay/Interactive-Sales-Dashboard-Excel/blob/main/Interactive%20Sales%20Dashboard.png?raw=true)
 
 ---
 Feel free to contribute or provide feedback!  
